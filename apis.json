@@ -1,0 +1,67 @@
+{
+    "name": "PayByPhone",
+    "description": "Pay for parking & tolls easily with PayByphone - the smart cashless parking app that'll help you avoid tickets & remind you when it's time to go",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2678-paybyphone.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/paybyphone\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PayByPhone",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2678-paybyphone.jpg",
+            "humanURL": "https:\/\/paybyphone.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paybyphone-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paybyphone-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/paybyphone-technologies"
+        },
+        {
+            "type": "Email",
+            "url": "sales@paybyphone.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@paybyphone.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@paybyphone.com"
+        },
+        {
+            "type": "Email",
+            "url": "euro@paybyphone.com"
+        },
+        {
+            "type": "Email",
+            "url": "anz@paybyphone.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pay_by_phone"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/paybyphone.com\/"
+        }
+    ]
+}
